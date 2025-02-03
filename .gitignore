@@ -1,0 +1,9 @@
+# Dart & Flutter-related ignores
+.dart_tool/
+.packages
+build/
+.idea/
+*.iml
+
+# Secrets (Ensure you don’t commit API keys)
+.env
